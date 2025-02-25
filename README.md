@@ -1,2 +1,2 @@
 # Prompt-Collection
-High quality Prompt case library
+A collection of high-quality Prompt examples
